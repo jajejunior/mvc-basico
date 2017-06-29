@@ -5,7 +5,7 @@
 
 <html lang="pt-br">
 <head>
-<meta charset="uft-8">
+<meta charset="utf-8">
 <title>mvc</title>
 </head>
 <body>
